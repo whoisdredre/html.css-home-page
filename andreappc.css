@@ -1,0 +1,106 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-image: url(https://wallpaperscraft.com/image/background_lines_circles_size_dark_35098_1920x1080.jpg);
+}
+
+h1{
+	text-align: right;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 80px;
+}
+a{
+	padding: 0px;
+	margin: 0px;
+}
+p{
+	display: inline-block;
+	font-family: georgia;
+}
+span{
+	display: block;
+	color:yellow;
+	margin-left:30px;
+	height: 20px;
+	line-height: 20px;
+	padding:5px;
+}
+
+ul li{
+	display: inline-block;
+	height: 30px;
+	line-height: 30px;
+
+}
+
+header{
+	background-color: yellow;
+	color:black;
+	font-weight: bold;
+	border: solid 1px darkgrey;
+	
+}
+#navi ul{
+	margin-left: 10px;
+
+}
+
+#nav{
+	width: 1100px;
+	height: 110px;
+	background-color: #bfbfbf;
+	border-left: solid 1px darkgrey;
+	margin: 0px;
+}
+#nav a:link{
+	color:#1a1a1a;
+	padding: 5px;
+	margin: 10px;
+	border-right: solid 1px darkgrey;
+	display: inline;
+
+}
+#mainl{
+	width: 380px;
+	height: 255px;
+	display:inline-block;
+	background-color: white;
+	vertical-align: top;
+	padding: 10px;
+	margin-top: 20px;
+	margin-left:30px;
+	border:solid 5px white;
+}
+#mainr{
+	width: 380px;
+	height: 300px;
+	display:inline-block;
+	background-image: url(http://content.wallpapers-room.com/presentationBig/dark_alley_by_itnsltwn.png);
+	vertical-align: top;
+	padding-left: 10px;padding-right: 10px;
+	margin-top: 5px;
+	margin-left: 60px;
+	font-size:12px;
+	font-family:courier new;
+	color: white;
+}
+img.read {
+	margin-left: 140px;
+
+}
+.subcontents
+{
+	width: 222px;
+	height:250px; 
+	display: inline-block;
+	vertical-align: top;
+	background-color: white;
+	padding-left: 10px;padding-right: 10px;
+	margin-left: 20px;
+}
+
+
+
